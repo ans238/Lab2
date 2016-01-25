@@ -1,2 +1,2 @@
 # Lab2
-Alyssa Srock
+Ducks like to quack, but quacks don't like to duck.
